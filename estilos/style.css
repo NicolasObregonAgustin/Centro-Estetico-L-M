@@ -1,7 +1,10 @@
+
 /*Index*/
 
 body {
     background-color: #EFE1CE;
+    margin: 0%;
+    padding: 0%;
 }
 
 .desc {
@@ -27,11 +30,16 @@ nav {
     
     display: block;
     text-align: center;
+    margin: 0%;
+    padding: 0%;
+    
 }
 
 ul {
     list-style: none;
     background-color: #038554;
+    margin: 0%;
+    padding: 0%;
 }
 
 li :hover {
@@ -43,6 +51,7 @@ a {
     margin-right: 50px;
     font-size: 30px;
     color: rgb(255, 255, 255);
+    
 }
 
 /*mapa*/
@@ -111,18 +120,22 @@ form{
     gap: 20px;
     background-color: turquoise;
     padding: 30px;
+    margin: 0%;
+    
 }
 
 input{
     width: 300px;       
     padding: 15px;       
-    font-size: 18px;     
+    font-size: 18px;  
+     
 }
 
 button{
     width: 300px;
     padding: auto;
     font-size: 25PX;
+    
 }
 
 /*pagina de productos*/
